@@ -200,7 +200,10 @@ sm {
     font-size: 12px;
 }
 
-
+#resume h5 span {
+   border-bottom: 3px solid #FF0066;
+   padding-bottom: 6px;
+}
 
 /* =============================================================
   CLIENTS SECTION STYLES
