@@ -191,16 +191,26 @@ padding:0px;
     background: #34495e;
 }
 
+
 .desc more {
-    color: #95a5a6;
+    
+    color:#6E7881;
+    
 }
 
-
+skl{
+    !color:#FF0066;
+}
 sm {
     font-size: 12px;
 }
 
 #resume h5 span {
+   border-bottom: 3px solid #FF0066;
+   padding-bottom: 6px;
+}
+
+#skillswrap h5 span {
    border-bottom: 3px solid #FF0066;
    padding-bottom: 6px;
 }
